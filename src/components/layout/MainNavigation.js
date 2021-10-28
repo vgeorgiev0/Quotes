@@ -29,6 +29,12 @@ const MainNavigation = () => {
       </div>
       <nav className={classes.nav}>
         <ul>
+          {isLoggedIn && (
+            <li>
+              <Link to='/profile'>Profile</Link>
+            </li>
+          )}
+
           {!isLoggedIn && (
             <li>
               <Link to='/auth'>Login</Link>
