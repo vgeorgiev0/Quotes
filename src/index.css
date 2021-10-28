@@ -5,7 +5,7 @@
 body {
   font-family: sans-serif;
   margin: 0;
-  background-color: #e7f8f8;
+  background-color: #ffb400;
 }
 
 .centered {
@@ -24,11 +24,11 @@ body {
 
 .btn {
   text-decoration: none;
-  background-color: teal;
+  background-color: #00a6ed;
   color: white;
   border-radius: 4px;
   padding: 0.75rem 1.5rem;
-  border: 1px solid teal;
+  border: 1px solid #00a6ed;
   cursor: pointer;
 }
 

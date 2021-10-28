@@ -1,7 +1,9 @@
 .quote {
-  background-color: #162b2b;
+  background-color: #7fb800;
   color: white;
   border-radius: 6px;
+  border-style: solid;
+  border-color: #00a6ed;
   padding: 3rem;
   margin: 3rem auto;
   width: 90%;
